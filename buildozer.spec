@@ -1,4 +1,5 @@
 [app]
+android.ndk = 25b
 title = Jarvis
 package.name = jarvis
 package.domain = org.jarvis
